@@ -23,7 +23,7 @@ body{
 .middle-col{
     background-color: gold;
     margin-left: 220px;
-    margin-right: 180px;
+    margin-right: 140px;
     float: left;
 }
 .logo-icon{
@@ -39,7 +39,7 @@ body{
 .right-col{
     width: 80px;
     background-color: white;
-    margin-left: -160px;
+    margin-left: -120px;
     float: left;
 }
 .icon-0{
