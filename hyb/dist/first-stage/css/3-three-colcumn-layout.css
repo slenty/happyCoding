@@ -12,16 +12,17 @@ body{
     position: absolute;
 }
 .left-col{
-    width:200px;
+    width:160px;
     position: absolute;
     background-color: white;
 }
 .group-name{
     float: right;
+    margin-right: -8px;
 }
 .middle-col{
     background-color: gold;
-    margin-left: 260px;
+    margin-left: 220px;
     margin-right: 180px;
     float: left;
 }
@@ -31,9 +32,19 @@ body{
     border: solid 2px #999;
     background-color: red;
 }
+
+.icon-1,.icon-2,.icon-3,.icon-4{
+    margin-bottom: 20px;
+}
+.right-col{
+    width: 80px;
+    background-color: white;
+    margin-left: -160px;
+    float: left;
+}
 .icon-0{
-     background: url("../image/logo-dog.png") no-repeat;
- }
+    background: url("../image/logo-dog.png") no-repeat;
+}
 .icon-1{
     background: url("../image/person-1.png") no-repeat;
 }
@@ -48,13 +59,4 @@ body{
 }
 .icon-5{
     background: url("../image/person-5.png") no-repeat;
-}
-.icon-1,.icon-2,.icon-3,.icon-4{
-    margin-bottom: 20px;
-}
-.right-col{
-    width: 120px;
-    background-color: white;
-    margin-left: -160px;
-    float: left;
 }

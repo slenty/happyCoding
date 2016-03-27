@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad40d31a-6e0b-4d74-a891-6cbe336b7496" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hyb/first-stage/3-.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hyb/first-stage/3-three column layount.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css" afterPath="$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html" afterPath="$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html" />
     </list>
     <ignored path="happyCoding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3-three-column-layout.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3-three-column-layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32733813">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.3846154">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-three-colcumn-layout.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="3-three-colcumn-layout.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.730769">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.38848922">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -63,8 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/hyb/first-stage/3-.html" />
         <option value="$PROJECT_DIR$/hyb/first-stage/3-three column layount.html" />
-        <option value="$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css" />
         <option value="$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html" />
+        <option value="$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css" />
       </list>
     </option>
   </component>
@@ -398,18 +397,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css">
+    <entry file="file://$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.730769">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state vertical-scroll-proportion="-4.3846154">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hyb/first-stage/3-three-column-layout.html">
+    <entry file="file://$PROJECT_DIR$/hyb/dist/first-stage/css/3-three-colcumn-layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32733813">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38848922">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding />
         </state>
       </provider>
