@@ -5,7 +5,7 @@ body{
 .container{
     width:400px;
     height: 200px;
-    background-color: #eee;
+    background-color: #ccc;
     left: 50%;
     top:50%;
     margin-left: -200px;
@@ -16,7 +16,7 @@ body{
     width: 50px;
     height: 50px;
     border-bottom-right-radius: 50px;
-    background-color: gold;
+    background-color: #fc0;
 }
 .right-bottom{
     position:absolute;
@@ -25,5 +25,5 @@ body{
     width: 50px;
     height: 50px;
     border-top-left-radius: 50px;
-    background-color: gold;
+    background-color: #fc0;
 }

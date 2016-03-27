@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad40d31a-6e0b-4d74-a891-6cbe336b7496" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hyb/first-stage/3-.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyb/dist/first-stage/css/4-location-and-center.css" afterPath="$PROJECT_DIR$/hyb/dist/first-stage/css/4-location-and-center.css" />
     </list>
     <ignored path="happyCoding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +46,8 @@
       <file leaf-file-name="4-location-and-center.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hyb/dist/first-stage/css/4-location-and-center.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4586331">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.66366905">
+              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -403,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hyb/dist/first-stage/css/4-location-and-center.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4586331">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.66366905">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding />
         </state>
       </provider>
