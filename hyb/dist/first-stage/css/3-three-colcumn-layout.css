@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    bottom: 0px;
+}
+.box,.left-col,.middle-col,.right-col{
+    padding:20px;
+    border:#999;
+}
+.box{
+    width: 90%;
+    background-color: #eee;
+    position: absolute;
+}
+.left-col{
+    width:200px;
+    position: absolute;
+    background-color: white;
+}
+.group-name{
+    float: right;
+}
+.middle-col{
+    background-color: gold;
+    margin-left: 260px;
+    margin-right: 180px;
+    float: left;
+}
+.logo-icon{
+    width:80px;
+    height:80px;
+    border: solid 2px #999;
+    background-color: red;
+}
+.icon-0{
+     background: url("../image/logo-dog.png") no-repeat;
+ }
+.icon-1{
+    background: url("../image/person-1.png") no-repeat;
+}
+.icon-2{
+    background: url("../image/person-2.png") no-repeat;
+}
+.icon-3{
+    background: url("../image/person-3.png") no-repeat;
+}
+.icon-4{
+    background: url("../image/person-4.png") no-repeat;
+}
+.icon-5{
+    background: url("../image/person-5.png") no-repeat;
+}
+.icon-1,.icon-2,.icon-3,.icon-4{
+    margin-bottom: 20px;
+}
+.right-col{
+    width: 120px;
+    background-color: white;
+    margin-left: -160px;
+    float: left;
+}
