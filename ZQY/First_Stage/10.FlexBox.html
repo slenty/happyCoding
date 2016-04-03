@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			body{
+				margin:0;
+				padding:0;
+				background-color: #EEEEEE;
+				
+			}
+			.flex-container{
+				padding: 20px;
+				display: flex;
+				flex-flow: row wrap;
+				justify-content: space-between;
+				align-items: center;
+				
+			}
+			div{
+				
+			}
+			.div1{
+				width:150px;
+				height:120px;
+				border: red 1px solid ;
+			}
+			.div2{
+				width:150px;
+				height:100px;
+				border:red 1px solid ;
+			}
+			.div3{
+				width:150px;
+				height:40px;
+				border:red 1px solid ;
+			}
+			.div4{
+				width:150px;
+				height:200px;
+				border:blue 1px solid ;
+			}
+			 @media all and (max-width:640px){
+			 	.flex-container{
+				 	display: flex;
+					flex-flow: row wrap;
+					justify-content: space-between;
+					align-items: flex-start;
+			 	}
+			 	.div4{order:1;}
+			 	.div1{order:2;}
+			 	.div2{order:3;}
+			 	.div3{order:4;}
+		}	
+		</style>
+	</head>
+	<body>
+		<div class="flex-container">
+				<div class="div1"></div>
+				<div class="div2"></div>
+				<div class="div3"></div>
+				<div class="div4"></div>
+		</div>
+	</body>
+</html>
